@@ -5,6 +5,7 @@ public class test3 {
 		System.out.println("branch update1");
 		
 		System.out.println("git update1");
+		System.out.println("git update1");
 		
 	}
 
