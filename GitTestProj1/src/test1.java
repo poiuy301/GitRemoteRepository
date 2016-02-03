@@ -9,7 +9,6 @@ public class test1 {
 
 		System.out.println("update1 in bugfix");
 
-
 	}
 
 }
